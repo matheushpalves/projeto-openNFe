@@ -12,7 +12,6 @@ Estamos abertos a contribuições da comunidade para melhorar e expandir o Proje
 Agradecemos antecipadamente as contribuições!
 Este projeto é licenciado sob a [Licença MIT] (LICENSE). Consulte o arquivo LICENSE para obter mais informações sobre os termos e condições.
 
-- Contato
  Se você tiver alguma dúvida, sugestão ou precisar de assistência entre em contato conosco:
 - Email: Matheus-alves88@hotmail.com
 - Issues: (https://github.com/matheushpalves /projeto-openNFe/issues
